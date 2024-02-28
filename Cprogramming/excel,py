@@ -1,0 +1,4 @@
+import xlrd
+from MyQR import myqr
+import os
+allFiles=os.l

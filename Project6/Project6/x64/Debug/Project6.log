@@ -1,0 +1,5 @@
+﻿  FileName.c
+C:\Users\豆腐脑\Desktop\STUDY\Project6\Project6\FileName.c(19,22): warning C4047: “=”:“char”与“char *”的间接级别不同
+C:\Users\豆腐脑\Desktop\STUDY\Project6\Project6\FileName.c(11,10): warning C4101: “str3”: 未引用的局部变量
+C:\Users\豆腐脑\Desktop\STUDY\Project6\Project6\FileName.c(12,10): warning C4101: “str4”: 未引用的局部变量
+  Project6.vcxproj -> C:\Users\豆腐脑\Desktop\STUDY\Project6\x64\Debug\Project6.exe

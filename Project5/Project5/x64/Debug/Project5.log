@@ -1,0 +1,23 @@
+﻿  FileName.cpp
+C:\Users\豆腐脑\Desktop\STUDY\Project5\Project5\FileName.cpp(9,16): warning C4566: 由通用字符名称“\u00B6”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\豆腐脑\Desktop\STUDY\Project5\Project5\FileName.cpp(9,16): warning C4566: 由通用字符名称“\u00B9”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\豆腐脑\Desktop\STUDY\Project5\Project5\FileName.cpp(9,16): warning C4566: 由通用字符名称“\u00B8”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\豆腐脑\Desktop\STUDY\Project5\Project5\FileName.cpp(9,16): warning C4566: 由通用字符名称“\u00AF”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\豆腐脑\Desktop\STUDY\Project5\Project5\FileName.cpp(9,16): warning C4566: 由通用字符名称“\u00C4”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\豆腐脑\Desktop\STUDY\Project5\Project5\FileName.cpp(9,16): warning C4566: 由通用字符名称“\u00D4”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\豆腐脑\Desktop\STUDY\Project5\Project5\FileName.cpp(18,21): error C2446: “==”: 没有从“const char [2]”到“int”的转换
+  C:\Users\豆腐脑\Desktop\STUDY\Project5\Project5\FileName.cpp(18,24):
+  没有使该转换得以执行的上下文
+  
+C:\Users\豆腐脑\Desktop\STUDY\Project5\Project5\FileName.cpp(32,34): error C2440: “=”: 无法从“char *[101]”转换为“char”
+  C:\Users\豆腐脑\Desktop\STUDY\Project5\Project5\FileName.cpp(32,34):
+  没有使该转换得以执行的上下文
+  
+C:\Users\豆腐脑\Desktop\STUDY\Project5\Project5\FileName.cpp(37,34): error C2440: “=”: 无法从“char *[101]”转换为“char”
+  C:\Users\豆腐脑\Desktop\STUDY\Project5\Project5\FileName.cpp(37,34):
+  没有使该转换得以执行的上下文
+  
+C:\Users\豆腐脑\Desktop\STUDY\Project5\Project5\FileName.cpp(43,11): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+C:\Users\豆腐脑\Desktop\STUDY\Project5\Project5\FileName.cpp(9,10): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\豆腐脑\Desktop\STUDY\Project5\Project5\FileName.cpp(22,24): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\豆腐脑\Desktop\STUDY\Project5\Project5\FileName.cpp(43,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
