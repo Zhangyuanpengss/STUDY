@@ -28,7 +28,7 @@ public class Main {
         System.out.println("Student details:"+student.toString());
 
         reader.close();
-        //zhangyuanpeng
+        
 
   
     }
