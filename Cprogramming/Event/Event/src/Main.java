@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public static void main(String[] args){
         Scanner reader=new Scanner(System.in);
-        ArrayList<String> eventattendees=new ArrayList<>();
+        ArrayList<Attendee> eventattendees=new ArrayList<>();
         
         System.out.println("Event ID:");
         String eventID=reader.nextLine();
@@ -24,8 +24,7 @@ public static void main(String[] args){
         int day=reader.nextInt();
         LocalDate eventDate=LocalDate.of(year,month,day);
 
-        Event event=new Event(eventID, eventName, eventVenue, eventDate,eventattendees);
-
+        Event event=new Event(eventID, eventName, eventVenue, eventDate, eventattendees);
         System.out.println("Choice:1.add attendees\n2.remove attendees\n3.change attendees\n4.check attendees\n5.Quit");
         for(int j=0;j>=0;++j){
             System.out.println("Enter your choice");
